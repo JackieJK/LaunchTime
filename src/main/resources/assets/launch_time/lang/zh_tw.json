@@ -1,0 +1,4 @@
+{
+  "launch_time.title": "啟動耗時",
+  "launch_time.message": "耗時: %.1f秒"
+}
