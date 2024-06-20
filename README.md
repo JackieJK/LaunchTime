@@ -4,4 +4,4 @@
 
 Screenshot:
 
-![screenshot_01](.\readme\screenshot_01.png)
+![screenshot_01](readme\screenshot_01.png)
